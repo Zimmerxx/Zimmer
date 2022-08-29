@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://monophy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">
+<img align="right" alt="Coding" width="400" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
